@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/koushik/.nvm/versions/node/v18.14.1/bin/node /Users/koushik/.yarn/bin/yarn.js add -D docsai-web-sdk
+
+PATH: 
+  /Users/koushik/.nvm/versions/node/v18.14.1/bin:/Users/koushik/.yarn/bin:/Users/koushik/.config/yarn/global/node_modules/.bin:/Library/Frameworks/Python.framework/Versions/3.10/bin:/Library/Frameworks/Python.framework/Versions/3.11/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/koushik/.fig/bin:/Users/koushik/.local/bin:/Users/koushik/Library/Python/3.8/bin:/Users/koushik/Library/Python/3.8/bin:/Users/koushik/.foundry/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.14.1
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/docsai-web-sdk: Not found
+      at params.callback [as _callback] (/Users/koushik/.yarn/lib/cli.js:66145:18)
+      at self.callback (/Users/koushik/.yarn/lib/cli.js:140890:22)
+      at Request.emit (node:events:513:28)
+      at Request.<anonymous> (/Users/koushik/.yarn/lib/cli.js:141862:10)
+      at Request.emit (node:events:513:28)
+      at IncomingMessage.<anonymous> (/Users/koushik/.yarn/lib/cli.js:141784:12)
+      at Object.onceWrapper (node:events:627:28)
+      at IncomingMessage.emit (node:events:525:35)
+      at endReadableNT (node:internal/streams/readable:1359:12)
+      at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
