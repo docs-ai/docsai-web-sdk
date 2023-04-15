@@ -1,6 +1,6 @@
 {
   "name": "@docsai/chat-sdk",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "devDependencies": {
     "@parcel/packager-ts": "2.8.3",
     "@parcel/transformer-inline-string": "2.8.3",
